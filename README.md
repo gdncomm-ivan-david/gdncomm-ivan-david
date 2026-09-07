@@ -1,16 +1,62 @@
-## Hi there 👋
+**<h2 title="hehehe"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
+ I'm Ivan David!</h2>**
 
-<!--
-**gdncomm-ivan-david/gdncomm-ivan-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Degree in Informatics from [President University](https://president.ac.id/academic/graduate/19)  
+💻 Software & AI Enthusiast  
+🌍 Based in Jakarta, Indonesia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me!
+
+- 🌱 I’m passionate about **Machine Learning, Software Development, and Automation**
+- 📫 Reach me at **ivann.davidd11@gmail.com**
+- 🔍 Open to collaborating on interesting projects or freelance work
+- 💼 Check out my portfolio: [My Portfolio Repo](https://ivandavid-portfolio.vercel.app/)
+
+---
+
+### 🧠 Areas of Interest
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Web Development (React, Spring Boot, PostgreSQL)  
+- 📊 Data Science   
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+</p>
+
+---
+
+### 📈 My GitHub Contributions
+
+![snake gif](https://raw.githubusercontent.com/ivanndavidd/ivanndavidd/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ivann-davidd" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://instagram.com/ivann.david" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ivanndavidd/ivanndavidd/main/bottom_header.svg" alt="Bottom Header SVG" />
+</p>
