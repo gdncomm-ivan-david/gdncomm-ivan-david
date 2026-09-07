@@ -43,7 +43,7 @@
 
 ### 📈 My GitHub Contributions
 
-![snake gif](https://raw.githubusercontent.com/ivanndavidd/ivanndavidd/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/gdncomm-ivan-david/gdncomm-ivan-david/output/github-contribution-grid-snake.svg)
 
 ---
 
