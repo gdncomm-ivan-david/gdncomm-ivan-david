@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me!
 
-- 🌱 I’m passionate about **Machine Learning, Software Development, and Automation**
+- 🌱 I’m passionate about **Machine Learning & AI, Software Development, and Automation**
 - 📫 Reach me at **ivann.davidd11@gmail.com**
 - 🔍 Open to collaborating on interesting projects or freelance work
 - 💼 Check out my portfolio: [My Portfolio Repo](https://ivandavid-portfolio.vercel.app/)
