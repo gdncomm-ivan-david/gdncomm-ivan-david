@@ -17,7 +17,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: ivanndavidd
+          github_user_name: gdncomm-ivan-david
           outputs: |
             dist/github-contribution-grid-snake.svg
 
